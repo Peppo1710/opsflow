@@ -1,0 +1,6 @@
+project_breif.md
+.env*
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
